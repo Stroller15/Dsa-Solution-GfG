@@ -1,1 +1,3 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fhow-to-generate-qr-codes-with-a-custom-logo-using-python%2F&psig=AOvVaw1ywAf0GuLaXoNxkzJaVRuo&ust=1672697524396000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjxkv-xp_wCFQAAAAAdAAAAABAE
+This repo created for collecting solved data structure problem on gfg for revison in future.
+
+![image](https://user-images.githubusercontent.com/84174011/210186072-7ebdbfa4-9e50-48a4-9e3f-dca2f0f03ad5.png)
