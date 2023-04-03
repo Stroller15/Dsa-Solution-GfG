@@ -8,6 +8,7 @@ class Solution {
     // Function to return a list containing the DFS traversal of the graph
     
     void dfs(vector<int> &ans , vector<int> &visited , vector<int> adj[] , int i) {
+        
         if(!visited[i]) {
           ans.push_back(i);
             visited[i] = true;
@@ -20,9 +21,10 @@ class Solution {
     vector<int> dfsOfGraph(int V, vector<int> adj[]) {
         vector<int> ans;
         vector<int> visited(V+1 , false);
-        for(int i = 0 ; i < V ; i++){
-            dfs(ans , visited , adj , i);
-        }
+        
+        
+            dfs(ans , visited , adj , 0);
+        
         return ans;
     }
 };
